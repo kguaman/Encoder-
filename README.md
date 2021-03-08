@@ -7,8 +7,9 @@
 
 <h2>Goal</h2>
 The goal of this project is to store an encrypted password and username in a file. And be able to be decrypted the password and username when the site name is enterd.
+<h2>How it works</h2>
+user runs 
 
- 
 <h2>Resources</h2>
 <ul>
   <li><a href="https://www.python.org/downloads/release/python-370/">Python </a></li>
