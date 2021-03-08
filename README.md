@@ -7,8 +7,10 @@
 
 <h2>Goal</h2>
 The goal of this project is to store an encrypted password and username in a file. And be able to be decrypted the password and username when the site name is enterd.
+
 <h2>How it works</h2>
-user runs 
+The user runs the file encryption. It prompts the user to enter the site name, username, and password. The encrypted password is then saved in a CSV file called passwords. If
+the user runs the decode file it asks the user to enter the site. Once the site is entered it looks through the CSV file for the site and displays the password and username.
 
 <h2>Resources</h2>
 <ul>
